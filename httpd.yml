@@ -1,0 +1,7 @@
+---
+ - name:
+   hosts:
+   tasks:
+   - name: httpd
+     tasks:
+     yum:
